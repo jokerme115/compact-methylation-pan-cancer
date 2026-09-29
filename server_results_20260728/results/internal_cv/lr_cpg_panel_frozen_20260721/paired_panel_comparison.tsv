@@ -1,0 +1,2 @@
+comparison	metric	estimate	ci_low	ci_high	n_bootstrap
+consensus_locked_1000_cpg_minus_consensus_locked_500_cpg	patient_level_macro_f1	0.0023063912938037223	-0.0040986024187024735	0.008528544840196498	2000

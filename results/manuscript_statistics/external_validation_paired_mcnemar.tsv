@@ -1,0 +1,13 @@
+cohort	comparison	small_only_correct	large_only_correct	discordant_pairs	exact_mcnemar_p_value
+GSE56044	200 vs 100	6	1	7	0.125
+GSE56044	500 vs 200	0	7	7	0.015625
+GSE56044	1000 vs 500	0	1	1	1.0
+GSE48684	200 vs 100	0	3	3	0.25
+GSE48684	500 vs 200	2	2	4	1.0
+GSE48684	1000 vs 500	2	0	2	0.5
+GSE53051	200 vs 100	1	16	17	0.000274658203125
+GSE53051	500 vs 200	5	3	8	0.7265625
+GSE53051	1000 vs 500	0	5	5	0.0625
+GSE105260_official_series	200 vs 100	3	1	4	0.625
+GSE105260_official_series	500 vs 200	2	5	7	0.453125
+GSE105260_official_series	1000 vs 500	0	2	2	0.5

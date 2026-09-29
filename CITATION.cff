@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or the CpG panels, please cite the accompanying manuscript."
+title: "Compact DNA methylation panels for patient-level pan-cancer lineage classification"
+type: software
+authors:
+  - family-names: He
+    given-names: Tao
+  - family-names: Long
+    given-names: Haixia
+  - family-names: Yu
+    given-names: Xia
+    email: 100170@hainnu.edu.cn

@@ -1,0 +1,23 @@
+{
+  "protocol_object": "patient_level_repeated_cross_validation_development_process",
+  "primary_estimator": "mean_of_three_repeat_specific_patient_level_metrics",
+  "bootstrap_rule": "resample_patients_once; retain all repeat predictions; compute each repeat metric; average repeats",
+  "descriptive_only_object": "repeated_cross_fitting_ensemble_prediction",
+  "n_repeats": 3,
+  "n_patients": 8923,
+  "n_bootstrap": 2000,
+  "seed": 42,
+  "metrics": [
+    "macro_f1",
+    "balanced_accuracy",
+    "brier_multiclass",
+    "nll",
+    "accuracy",
+    "ece_15_bins",
+    "aurc"
+  ],
+  "inputs": {
+    "sample_predictions_sha256": "75c304c69aff40e4fcb2c619f6f8e143a7e5a39e61b03c1a04bd77ffb68822dc",
+    "split_summary_sha256": "d41b12c969c1dfaa73a0b5b025b8087a640f3f48fbc12ff6228b7ad2e6cd07a1"
+  }
+}

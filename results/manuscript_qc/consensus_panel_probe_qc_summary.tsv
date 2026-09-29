@@ -1,0 +1,3 @@
+panel_size	total_probes	manifest_matched	chr_x	chr_y	sex_chromosome_total	sex_chromosome_fraction	probe_snps_nonempty	probe_snps_10_nonempty	manifest_any_snp_flag	manifest_any_snp_fraction	cross_reactive_multimapping_status
+500	500	500	9	0	9	0.018000	72	31	97	0.194000	not_assessed_no_versioned_list
+1000	1000	1000	20	0	20	0.020000	141	53	180	0.180000	not_assessed_no_versioned_list

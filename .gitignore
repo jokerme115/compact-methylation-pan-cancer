@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.pt
+*.gz
+*.zip
+outputs/
+tmp/
+archive/
+data/external_geo_raw/

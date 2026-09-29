@@ -1,0 +1,3 @@
+panel_size	n_source_folds	nogueira_stability	pairwise_jaccard_mean	pairwise_jaccard_min	rank_biased_overlap_mean	panel_union_size	consensus_panel_size	selected_15_of_15_count	selected_ge_12_of_15_count	selected_ge_9_of_15_count	spearman_common_probe_count_mean	spearman_common_probe_count_min
+500	15	0.6734285714285714	0.9527906584706838	0.937984496124031	0.9707694636294345	540	500	465	484	495	487.9047619047619	484
+1000	15	0.6853869281045752	0.9699369850384009	0.9607843137254902	0.9707694636294345	1051	1000	958	981	996	984.7333333333333	980

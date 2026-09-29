@@ -1,0 +1,5 @@
+Cohort,Evaluation,Samples,Labels,Top-1/exact accuracy,Top-3 accuracy,Mean confidence,Use
+GSE56044,Exact LUAD/LUSC,106,TCGA-LUAD;TCGA-LUSC,0.9716981132075472,1.0,0.9455832605201384,independent lung cancer cohort
+GSE48684,COAD/READ lineage,64,TCGA-COADREAD,0.859375,0.921875,0.8619905668825443,independent colorectal cancer cohort
+GSE53051,Multi-tissue lineage,102,TCGA-BRCA;TCGA-COADREAD;TCGA-LUNG;TCGA-PAAD;TCGA-THCA,0.9019607843137256,0.9411764705882352,0.9067634731109784,multi-tissue external cohort
+GSE105260 official,Exact KIRC from official beta,35,TCGA-KIRC,0.8857142857142857,0.8857142857142857,0.909576258351872,official minfi/SWAN processed ccRCC cohort

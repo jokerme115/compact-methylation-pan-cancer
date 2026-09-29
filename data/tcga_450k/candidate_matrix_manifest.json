@@ -1,0 +1,11 @@
+{
+  "platform_selected": "Illumina Human Methylation 450",
+  "n_samples": 9812,
+  "n_total_probes": 486427,
+  "n_candidate_probes": 413341,
+  "n_selected_probes": 413341,
+  "top_k": 0,
+  "min_coverage_ratio": 0.7,
+  "preserved_nan": true,
+  "matrix": "X_candidate.npy"
+}

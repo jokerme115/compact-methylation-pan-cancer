@@ -1,0 +1,661 @@
+label,class_rank,probe_id,mean_abs_coef,selected_fold_count,gene_symbol,gene_region,relation_to_cpg_island,is_promoter,top_pathways
+TCGA-ACC,1,cg02027945,0.9822553589558776,15,,,Island,False,
+TCGA-ACC,2,cg00660167,0.9754942352110024,15,,,N_Shore,False,
+TCGA-ACC,3,cg27592331,0.7486356662137845,15,GATA6,Body,N_Shore,False,Cardiogenesis;Developmental Biology;Factors involved in megakaryocyte development and platelet production;Formation of definitive endoderm;Gastrulation
+TCGA-ACC,4,cg06315390,0.7140381073947529,15,FAM118A,TSS1500,N_Shore,True,
+TCGA-ACC,5,cg04428071,0.6917469412015259,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-ACC,6,cg14769786,0.6502469996461369,15,RTN4RL1,Body,S_Shore,False,Metabolism of proteins;Post-translational modification: synthesis of GPI-anchored proteins;Post-translational protein modification
+TCGA-ACC,7,cg21577651,0.6432944482426488,15,SLC16A13,TSS1500,Island,True,
+TCGA-ACC,8,cg12619262,0.6162498657315597,15,,,,False,
+TCGA-ACC,9,cg20545544,0.6151102369252589,15,CBX5,1stExon,Island,True,Epigenetic regulation of gene expression;Factors involved in megakaryocyte development and platelet production;Gene expression (Transcription);Generic Transcription Pathway;Hemostasis
+TCGA-ACC,10,cg21428990,0.6073340931908352,15,,,,False,
+TCGA-ACC,11,cg23398076,0.606051504414116,1,MEIS1,Body,S_Shelf,False,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Developmental Biology
+TCGA-ACC,12,cg22425474,0.5904805132147994,15,,,Island,False,
+TCGA-ACC,13,cg08360726,0.5857211332568781,15,PLD3,5'UTR,Island,True,Fcgamma receptor (FCGR) dependent phagocytosis;Glycerophospholipid biosynthesis;Immune System;Innate Immune System;Metabolism
+TCGA-ACC,14,cg17754510,0.568299979405173,15,,,S_Shore,False,
+TCGA-ACC,15,cg01623261,0.5603343129894734,7,BAHCC1,Body,Island,False,
+TCGA-ACC,16,cg18703601,0.5509913516045858,15,ROBO1,TSS1500,S_Shore,True,Activation of RAC1;Axon guidance;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-ACC,17,cg27260772,0.5461419516302285,15,TFAP2B,Body,Island,False,Activation of the TFAP2 (AP-2) family of transcription factors;Developmental Biology;Gastrulation;Gene expression (Transcription);Generic Transcription Pathway
+TCGA-ACC,18,cg06879394,0.5369495137990479,15,PHACTR1,Body,,False,
+TCGA-ACC,19,cg03132824,0.5353116272536549,3,RGS12,Body,N_Shore,False,G alpha (i) signalling events;GPCR downstream signalling;Signal Transduction;Signaling by GPCR
+TCGA-ACC,20,cg02025737,0.5311181271339056,15,,,,False,
+TCGA-BLCA,1,cg27071152,1.286538936779612,15,LOC646999,Body,Island,False,
+TCGA-BLCA,2,cg00907288,1.104722820134319,15,SRGAP3,Body,S_Shore,False,Axon guidance;CDC42 GTPase cycle;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-BLCA,3,cg04737131,1.009716087970532,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-BLCA,4,cg04428071,0.9082378788044724,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-BLCA,5,cg08954277,0.9015073270835844,15,,,S_Shore,False,
+TCGA-BLCA,6,cg19980771,0.8914561648756043,15,SLC22A16,TSS200,Island,True,SLC-mediated transmembrane transport;SLC-mediated transport of organic cations;Transport of small molecules
+TCGA-BLCA,7,cg18121066,0.8161479271599069,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-BLCA,8,cg03274456,0.7962203359125243,15,AHNAK,Body,,False,
+TCGA-BLCA,9,cg12680131,0.7718858872194492,15,TPO,TSS1500,,True,Metabolism;Metabolism of amine-derived hormones;Metabolism of amino acids and derivatives;Thyroxine biosynthesis
+TCGA-BLCA,10,cg06223834,0.7610992342898544,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-BLCA,11,cg11630939,0.7520277251088487,15,,,,False,
+TCGA-BLCA,12,cg13879483,0.7427606160940312,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-BLCA,13,cg11837293,0.7240966011122175,15,,,,False,
+TCGA-BLCA,14,cg09798888,0.7048546040865361,15,,,S_Shore,False,
+TCGA-BLCA,15,cg00660167,0.6690805657046844,15,,,N_Shore,False,
+TCGA-BLCA,16,cg17627629,0.6669027364509204,2,,,N_Shore,False,
+TCGA-BLCA,17,cg22425474,0.659591684381574,15,,,Island,False,
+TCGA-BLCA,18,cg06972969,0.654767587893258,3,PHYHIPL,TSS1500,N_Shore,True,
+TCGA-BLCA,19,cg02486253,0.6222810491912095,14,RNF126P1,TSS200,Island,True,
+TCGA-BLCA,20,cg26014538,0.6131791820056168,15,ZIC1,TSS1500,N_Shore,True,Developmental Biology;Gastrulation;MITF-M-regulated melanocyte development;Specification of the neural plate border;Transcriptional and post-translational regulation of MITF-M expression and activity
+TCGA-BRCA,1,cg26858540,0.987744266053589,15,ZNF787,Body,S_Shelf,False,
+TCGA-BRCA,2,cg03274456,0.9584075283004574,15,AHNAK,Body,,False,
+TCGA-BRCA,3,cg05940691,0.9075312191690046,15,WDR64,Body,,False,
+TCGA-BRCA,4,cg02261899,0.8898361868111775,1,DCAF12L1,TSS200,Island,True,
+TCGA-BRCA,5,cg10501210,0.8315108420651448,15,,,,False,
+TCGA-BRCA,6,cg22986569,0.8221681319591345,15,,,,False,
+TCGA-BRCA,7,cg08360726,0.8103468963129985,15,PLD3,5'UTR,Island,True,Fcgamma receptor (FCGR) dependent phagocytosis;Glycerophospholipid biosynthesis;Immune System;Innate Immune System;Metabolism
+TCGA-BRCA,8,cg22740796,0.7995945795230855,15,,,,False,
+TCGA-BRCA,9,cg17627629,0.7963226184135592,2,,,N_Shore,False,
+TCGA-BRCA,10,cg25999637,0.792628890586265,7,PDLIM3,Body,,False,
+TCGA-BRCA,11,cg07162000,0.7170723771913939,15,ADARB2,Body,N_Shelf,False,
+TCGA-BRCA,12,cg10416814,0.6845470575682214,15,,,Island,False,
+TCGA-BRCA,13,cg14696311,0.6820725105429619,15,RASA3,Body,S_Shelf,False,MAPK family signaling cascades;MAPK1/MAPK3 signaling;RAF/MAP kinase cascade;Regulation of RAS by GAPs;Signal Transduction
+TCGA-BRCA,14,cg25731211,0.6774525589899699,15,,,,False,
+TCGA-BRCA,15,cg00428457,0.6289752242464968,15,,,,False,
+TCGA-BRCA,16,cg17754510,0.6066355407106666,15,,,S_Shore,False,
+TCGA-BRCA,17,cg26864905,0.6040440100839662,15,IL20RA,TSS200,S_Shore,True,Cytokine Signaling in Immune system;Immune System;Interleukin-20 family signaling;Signaling by Interleukins
+TCGA-BRCA,18,cg07248223,0.6017049685918943,15,CCR7,Body,,False,Chemokine receptors bind chemokines;Class A/1 (Rhodopsin-like receptors);G alpha (i) signalling events;GPCR downstream signalling;GPCR ligand binding
+TCGA-BRCA,19,cg22621695,0.596600850165272,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-BRCA,20,cg21887193,0.5871548645255,15,AGAP3,Body,S_Shore,False,
+TCGA-CESC,1,cg25999637,1.231750254195342,7,PDLIM3,Body,,False,
+TCGA-CESC,2,cg02772121,1.100974751330532,15,TRIM15,TSS200,,True,
+TCGA-CESC,3,cg02261899,1.0688539113942896,1,DCAF12L1,TSS200,Island,True,
+TCGA-CESC,4,cg10501210,1.0485820561720474,15,,,,False,
+TCGA-CESC,5,cg07041999,1.0428573604240468,1,,,,False,
+TCGA-CESC,6,cg27071152,0.9633953486634192,15,LOC646999,Body,Island,False,
+TCGA-CESC,7,cg27592331,0.9600518185530644,15,GATA6,Body,N_Shore,False,Cardiogenesis;Developmental Biology;Factors involved in megakaryocyte development and platelet production;Formation of definitive endoderm;Gastrulation
+TCGA-CESC,8,cg11862144,0.9408541192510614,15,SERPINB5,TSS200,,True,
+TCGA-CESC,9,cg23398076,0.8952519150715165,1,MEIS1,Body,S_Shelf,False,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Developmental Biology
+TCGA-CESC,10,cg13641185,0.8911160230243019,15,,,Island,False,
+TCGA-CESC,11,cg15425541,0.8819537786244575,15,,,S_Shelf,False,
+TCGA-CESC,12,cg12619262,0.8702518176256937,15,,,,False,
+TCGA-CESC,13,cg12911732,0.8449322465081452,15,,,,False,
+TCGA-CESC,14,cg22986569,0.833682474502589,15,,,,False,
+TCGA-CESC,15,cg00768487,0.7941844323663965,15,UBXN11,Body,,False,RHO GTPase cycle;RND1 GTPase cycle;RND2 GTPase cycle;RND3 GTPase cycle;Signal Transduction
+TCGA-CESC,16,cg08954277,0.7638818238266321,15,,,S_Shore,False,
+TCGA-CESC,17,cg05651243,0.7445390324135646,15,,,,False,
+TCGA-CESC,18,cg03692651,0.7251387073169695,15,,,Island,False,
+TCGA-CESC,19,cg17233090,0.6998487436394499,15,,,,False,
+TCGA-CESC,20,cg26858540,0.6918589526641197,15,ZNF787,Body,S_Shelf,False,
+TCGA-CHOL,1,cg21428990,1.180533608031208,15,,,,False,
+TCGA-CHOL,2,cg04571941,1.087991610110771,15,TNRC18,TSS200,Island,True,
+TCGA-CHOL,3,cg12911732,0.9346494497791792,15,,,,False,
+TCGA-CHOL,4,cg10554839,0.9292915140424296,15,ACBD5,5'UTR,Island,True,Class I peroxisomal membrane protein import;Fatty acid metabolism;Metabolism;Metabolism of lipids;Peroxisomal lipid metabolism
+TCGA-CHOL,5,cg22621695,0.8743037342621354,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-CHOL,6,cg08599635,0.7718275489617388,15,WWOX,Body,,False,Activation of the TFAP2 (AP-2) family of transcription factors;Gene expression (Transcription);Generic Transcription Pathway;Negative regulation of activity of TFAP2 (AP-2) family transcription factors;Nuclear signaling by ERBB4
+TCGA-CHOL,7,cg07162000,0.7671873756000182,15,ADARB2,Body,N_Shelf,False,
+TCGA-CHOL,8,cg04428071,0.7599781654085689,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-CHOL,9,cg01263942,0.7569443522761069,15,DIP2C,Body,,True,
+TCGA-CHOL,10,cg21887193,0.746658041359686,15,AGAP3,Body,S_Shore,False,
+TCGA-CHOL,11,cg26010218,0.7178398754883056,15,FRAS1,TSS1500,N_Shore,True,
+TCGA-CHOL,12,cg17375167,0.6799908042597984,15,IGF1R,TSS1500,Island,True,Disease;ESR-mediated signaling;Extra-nuclear estrogen signaling;IGF1R signaling cascade;IRS-related events triggered by IGF1R
+TCGA-CHOL,13,cg07129523,0.6641489591372258,15,PCDHB4,TSS200,N_Shore,True,
+TCGA-CHOL,14,cg02772121,0.6640814664127498,15,TRIM15,TSS200,,True,
+TCGA-CHOL,15,cg18703601,0.6439932547060752,15,ROBO1,TSS1500,S_Shore,True,Activation of RAC1;Axon guidance;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-CHOL,16,cg25105522,0.6182749188255343,15,MAP3K14,Body,,False,Adaptive Immune System;C-type lectin receptors (CLRs);CD28 dependent PI3K/Akt signaling;CLEC7A (Dectin-1) signaling;Co-stimulation by CD28
+TCGA-CHOL,17,cg13879483,0.606626825267521,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-CHOL,18,cg21577651,0.6045489626101528,15,SLC16A13,TSS1500,Island,True,
+TCGA-CHOL,19,cg08954277,0.600293831557994,15,,,S_Shore,False,
+TCGA-CHOL,20,cg23192683,0.5972189942718478,4,,,S_Shore,False,
+TCGA-COAD,1,cg20928945,1.388811220548384,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-COAD,2,cg06315390,1.3273798296781645,15,FAM118A,TSS1500,N_Shore,True,
+TCGA-COAD,3,cg01263942,1.170429734115063,15,DIP2C,Body,,True,
+TCGA-COAD,4,cg27091865,1.115134970505433,15,,,,False,
+TCGA-COAD,5,cg01682111,0.9894670988114114,15,UNKL,TSS1500,Island,True,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System
+TCGA-COAD,6,cg02048922,0.9841623728938608,15,BAI1,Body,S_Shore,False,
+TCGA-COAD,7,cg01246520,0.9699764854873784,15,RAI1,5'UTR,,True,"Cellular responses to stimuli;Cellular responses to stress;Circadian clock;Expression of BMAL (ARNTL), CLOCK, and NPAS2;Heme signaling"
+TCGA-COAD,8,cg05940691,0.8408459661112089,15,WDR64,Body,,False,
+TCGA-COAD,9,cg12911732,0.8159409172579704,15,,,,False,
+TCGA-COAD,10,cg02486253,0.8057314463228449,14,RNF126P1,TSS200,Island,True,
+TCGA-COAD,11,cg23057992,0.8003036793304911,15,TMEM163,TSS200,Island,True,
+TCGA-COAD,12,cg25731211,0.7910556746593198,15,,,,False,
+TCGA-COAD,13,cg14931854,0.7606620890524082,6,,,,False,
+TCGA-COAD,14,cg20100745,0.7447807040475957,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-COAD,15,cg08954277,0.7382042846260578,15,,,S_Shore,False,
+TCGA-COAD,16,cg07041999,0.7298726309321408,1,,,,False,
+TCGA-COAD,17,cg10501210,0.683876297645256,15,,,,False,
+TCGA-COAD,18,cg18703601,0.6683209098247634,15,ROBO1,TSS1500,S_Shore,True,Activation of RAC1;Axon guidance;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-COAD,19,cg00907288,0.660757968282341,15,SRGAP3,Body,S_Shore,False,Axon guidance;CDC42 GTPase cycle;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-COAD,20,cg22621695,0.658399048621301,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-DLBC,1,cg07240413,1.329926170638814,4,,,,False,
+TCGA-DLBC,2,cg16810279,1.0559769656371272,3,,,S_Shelf,False,
+TCGA-DLBC,3,cg23192683,0.9980455756723684,4,,,S_Shore,False,
+TCGA-DLBC,4,cg14931854,0.9586419213391963,6,,,,False,
+TCGA-DLBC,5,cg16602369,0.8560106654141774,15,ANKRD33B,TSS200,Island,True,
+TCGA-DLBC,6,cg06879394,0.8416363944305357,15,PHACTR1,Body,,False,
+TCGA-DLBC,7,cg07162000,0.801654345799966,15,ADARB2,Body,N_Shelf,False,
+TCGA-DLBC,8,cg20928945,0.7386711083441111,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-DLBC,9,cg09068128,0.7114872330443237,15,,,,False,
+TCGA-DLBC,10,cg11837293,0.6928552388587242,15,,,,False,
+TCGA-DLBC,11,cg21577651,0.676863116803805,15,SLC16A13,TSS1500,Island,True,
+TCGA-DLBC,12,cg07041999,0.6745283941340827,1,,,,False,
+TCGA-DLBC,13,cg07248223,0.6626273387874159,15,CCR7,Body,,False,Chemokine receptors bind chemokines;Class A/1 (Rhodopsin-like receptors);G alpha (i) signalling events;GPCR downstream signalling;GPCR ligand binding
+TCGA-DLBC,14,cg17233090,0.6411008340920168,15,,,,False,
+TCGA-DLBC,15,cg12619262,0.6388476425871459,15,,,,False,
+TCGA-DLBC,16,cg08954277,0.578435901683273,15,,,S_Shore,False,
+TCGA-DLBC,17,cg06972969,0.5596996847611793,3,PHYHIPL,TSS1500,N_Shore,True,
+TCGA-DLBC,18,cg14262681,0.5518312526318804,15,,,N_Shore,False,
+TCGA-DLBC,19,cg01263942,0.5323973559096676,15,DIP2C,Body,,True,
+TCGA-DLBC,20,cg02261899,0.526847529073929,1,DCAF12L1,TSS200,Island,True,
+TCGA-ESCA,1,cg00768487,1.0310789346077631,15,UBXN11,Body,,False,RHO GTPase cycle;RND1 GTPase cycle;RND2 GTPase cycle;RND3 GTPase cycle;Signal Transduction
+TCGA-ESCA,2,cg01680010,0.974857421793448,15,,,S_Shore,False,
+TCGA-ESCA,3,cg25999637,0.9441733896947874,7,PDLIM3,Body,,False,
+TCGA-ESCA,4,cg07240413,0.8962269833977524,4,,,,False,
+TCGA-ESCA,5,cg23709617,0.8264121139485331,15,KNDC1,Body,S_Shore,False,
+TCGA-ESCA,6,cg05940691,0.7895242941149979,15,WDR64,Body,,False,
+TCGA-ESCA,7,cg27071152,0.7477522377506313,15,LOC646999,Body,Island,False,
+TCGA-ESCA,8,cg04737131,0.730688122698954,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-ESCA,9,cg04571941,0.7171670559270196,15,TNRC18,TSS200,Island,True,
+TCGA-ESCA,10,cg11862144,0.7061291495155427,15,SERPINB5,TSS200,,True,
+TCGA-ESCA,11,cg12014181,0.6990721151453549,15,DIP2C,Body,,False,
+TCGA-ESCA,12,cg00907288,0.6760721136113264,15,SRGAP3,Body,S_Shore,False,Axon guidance;CDC42 GTPase cycle;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-ESCA,13,cg26864905,0.5939352849901535,15,IL20RA,TSS200,S_Shore,True,Cytokine Signaling in Immune system;Immune System;Interleukin-20 family signaling;Signaling by Interleukins
+TCGA-ESCA,14,cg17945789,0.5639065647481786,15,AGAP1,Body,S_Shore,False,
+TCGA-ESCA,15,cg22425474,0.5548096513900301,15,,,Island,False,
+TCGA-ESCA,16,cg14715697,0.5510537106164894,15,HRNBP3,5'UTR,Island,True,
+TCGA-ESCA,17,cg21887193,0.5489713806559292,15,AGAP3,Body,S_Shore,False,
+TCGA-ESCA,18,cg06972969,0.5460055346096341,3,PHYHIPL,TSS1500,N_Shore,True,
+TCGA-ESCA,19,cg08599635,0.5426577978466687,15,WWOX,Body,,False,Activation of the TFAP2 (AP-2) family of transcription factors;Gene expression (Transcription);Generic Transcription Pathway;Negative regulation of activity of TFAP2 (AP-2) family transcription factors;Nuclear signaling by ERBB4
+TCGA-ESCA,20,cg06315390,0.5405605753116138,15,FAM118A,TSS1500,N_Shore,True,
+TCGA-GBM,1,cg11837293,1.1604220098847873,15,,,,False,
+TCGA-GBM,2,cg00660167,1.00591578248155,15,,,N_Shore,False,
+TCGA-GBM,3,cg01246520,0.9805183237641384,15,RAI1,5'UTR,,True,"Cellular responses to stimuli;Cellular responses to stress;Circadian clock;Expression of BMAL (ARNTL), CLOCK, and NPAS2;Heme signaling"
+TCGA-GBM,4,cg00907288,0.902188461055054,15,SRGAP3,Body,S_Shore,False,Axon guidance;CDC42 GTPase cycle;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-GBM,5,cg24940967,0.8109170781463977,3,SLC6A20,Body,N_Shore,False,Amino acid transport across the plasma membrane;Disease;Disorders of transmembrane transporters;SLC transporter disorders;SLC-mediated transmembrane transport
+TCGA-GBM,6,cg25999637,0.7954405195657944,7,PDLIM3,Body,,False,
+TCGA-GBM,7,cg03132824,0.7518946028563995,3,RGS12,Body,N_Shore,False,G alpha (i) signalling events;GPCR downstream signalling;Signal Transduction;Signaling by GPCR
+TCGA-GBM,8,cg06223834,0.7499770183526215,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-GBM,9,cg06972969,0.7431444054340958,3,PHYHIPL,TSS1500,N_Shore,True,
+TCGA-GBM,10,cg02048922,0.6669328913395796,15,BAI1,Body,S_Shore,False,
+TCGA-GBM,11,cg23192683,0.6491038472611642,4,,,S_Shore,False,
+TCGA-GBM,12,cg25105522,0.6250809220951589,15,MAP3K14,Body,,False,Adaptive Immune System;C-type lectin receptors (CLRs);CD28 dependent PI3K/Akt signaling;CLEC7A (Dectin-1) signaling;Co-stimulation by CD28
+TCGA-GBM,13,cg07129523,0.5922184138856,15,PCDHB4,TSS200,N_Shore,True,
+TCGA-GBM,14,cg27436995,0.588759603755882,15,FBXL16,3'UTR,Island,False,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System;Metabolism of proteins
+TCGA-GBM,15,cg14715697,0.5884413623025269,15,HRNBP3,5'UTR,Island,True,
+TCGA-GBM,16,cg01682111,0.5867178803846613,15,UNKL,TSS1500,Island,True,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System
+TCGA-GBM,17,cg04571941,0.581132919982328,15,TNRC18,TSS200,Island,True,
+TCGA-GBM,18,cg22399133,0.5810037712286817,11,CRYGD,1stExon,Island,True,
+TCGA-GBM,19,cg19486070,0.5764582194966994,15,KIAA1908,Body,,False,
+TCGA-GBM,20,cg05651243,0.5559477892947479,15,,,,False,
+TCGA-HNSC,1,cg01263942,1.250834233840189,15,DIP2C,Body,,True,
+TCGA-HNSC,2,cg20100745,1.2112584106030744,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-HNSC,3,cg24940967,1.206303410290677,3,SLC6A20,Body,N_Shore,False,Amino acid transport across the plasma membrane;Disease;Disorders of transmembrane transporters;SLC transporter disorders;SLC-mediated transmembrane transport
+TCGA-HNSC,4,cg12911732,1.156312315905855,15,,,,False,
+TCGA-HNSC,5,cg00660167,1.1082065234408882,15,,,N_Shore,False,
+TCGA-HNSC,6,cg13294849,1.0610043888334986,15,SOX2OT,Body,N_Shelf,False,
+TCGA-HNSC,7,cg19486070,0.9746381118250482,15,KIAA1908,Body,,False,
+TCGA-HNSC,8,cg20928945,0.95193808142175,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-HNSC,9,cg18121066,0.9164513198800128,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-HNSC,10,cg02772121,0.8953184551338069,15,TRIM15,TSS200,,True,
+TCGA-HNSC,11,cg02027945,0.8652023509561447,15,,,Island,False,
+TCGA-HNSC,12,cg08599635,0.8197805005073836,15,WWOX,Body,,False,Activation of the TFAP2 (AP-2) family of transcription factors;Gene expression (Transcription);Generic Transcription Pathway;Negative regulation of activity of TFAP2 (AP-2) family transcription factors;Nuclear signaling by ERBB4
+TCGA-HNSC,13,cg24150623,0.784310818799913,15,MIR125B1,TSS1500,,True,
+TCGA-HNSC,14,cg27091865,0.7810996055128716,15,,,,False,
+TCGA-HNSC,15,cg08954277,0.7277284652712477,15,,,S_Shore,False,
+TCGA-HNSC,16,cg09068128,0.7018768934566882,15,,,,False,
+TCGA-HNSC,17,cg18703601,0.686141211273441,15,ROBO1,TSS1500,S_Shore,True,Activation of RAC1;Axon guidance;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-HNSC,18,cg09798888,0.6760244789621647,15,,,S_Shore,False,
+TCGA-HNSC,19,cg12680131,0.6200906659848265,15,TPO,TSS1500,,True,Metabolism;Metabolism of amine-derived hormones;Metabolism of amino acids and derivatives;Thyroxine biosynthesis
+TCGA-HNSC,20,cg12014181,0.6189286157071927,15,DIP2C,Body,,False,
+TCGA-KICH,1,cg00768487,0.9843225447624794,15,UBXN11,Body,,False,RHO GTPase cycle;RND1 GTPase cycle;RND2 GTPase cycle;RND3 GTPase cycle;Signal Transduction
+TCGA-KICH,2,cg03990436,0.815815424642746,15,PSMD1,3'UTR,,False,ABC transporter disorders;ABC-family protein mediated transport;AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274);APC/C-mediated degradation of cell cycle proteins;APC/C:Cdc20 mediated degradation of Securin
+TCGA-KICH,3,cg27091865,0.7712374812453707,15,,,,False,
+TCGA-KICH,4,cg24940967,0.7658449952885054,3,SLC6A20,Body,N_Shore,False,Amino acid transport across the plasma membrane;Disease;Disorders of transmembrane transporters;SLC transporter disorders;SLC-mediated transmembrane transport
+TCGA-KICH,5,cg22621695,0.6744308124836892,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-KICH,6,cg20100745,0.6410022105161982,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-KICH,7,cg19486070,0.6375263387247384,15,KIAA1908,Body,,False,
+TCGA-KICH,8,cg07240413,0.5752059709393706,4,,,,False,
+TCGA-KICH,9,cg04571941,0.5656310368933198,15,TNRC18,TSS200,Island,True,
+TCGA-KICH,10,cg08954277,0.5555418800750846,15,,,S_Shore,False,
+TCGA-KICH,11,cg17233090,0.5457217330300271,15,,,,False,
+TCGA-KICH,12,cg04737131,0.536068820710047,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-KICH,13,cg11717189,0.5197269883936633,15,INS-IGF2,Body,Island,False,
+TCGA-KICH,14,cg23091104,0.489437146192648,15,TMEM164,1stExon,Island,True,
+TCGA-KICH,15,cg15425541,0.4825440866378235,15,,,S_Shelf,False,
+TCGA-KICH,16,cg25999637,0.4740320470412054,7,PDLIM3,Body,,False,
+TCGA-KICH,17,cg27436995,0.4468458829335699,15,FBXL16,3'UTR,Island,False,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System;Metabolism of proteins
+TCGA-KICH,18,cg07041999,0.4377679689392601,1,,,,False,
+TCGA-KICH,19,cg04428071,0.4348396189065321,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-KICH,20,cg02261899,0.4339444818491705,1,DCAF12L1,TSS200,Island,True,
+TCGA-KIRC,1,cg12014181,1.074830431166353,15,DIP2C,Body,,False,
+TCGA-KIRC,2,cg11630939,0.9384107499777375,15,,,,False,
+TCGA-KIRC,3,cg06223834,0.866555809037024,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-KIRC,4,cg01263942,0.811969144361307,15,DIP2C,Body,,True,
+TCGA-KIRC,5,cg10416814,0.7632652459974497,15,,,Island,False,
+TCGA-KIRC,6,cg00768487,0.7492349044000332,15,UBXN11,Body,,False,RHO GTPase cycle;RND1 GTPase cycle;RND2 GTPase cycle;RND3 GTPase cycle;Signal Transduction
+TCGA-KIRC,7,cg08599635,0.6967825169613969,15,WWOX,Body,,False,Activation of the TFAP2 (AP-2) family of transcription factors;Gene expression (Transcription);Generic Transcription Pathway;Negative regulation of activity of TFAP2 (AP-2) family transcription factors;Nuclear signaling by ERBB4
+TCGA-KIRC,8,cg20100745,0.692216720730197,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-KIRC,9,cg20928945,0.6847207130024041,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-KIRC,10,cg26014538,0.6602576628055067,15,ZIC1,TSS1500,N_Shore,True,Developmental Biology;Gastrulation;MITF-M-regulated melanocyte development;Specification of the neural plate border;Transcriptional and post-translational regulation of MITF-M expression and activity
+TCGA-KIRC,11,cg22621695,0.6565036170254108,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-KIRC,12,cg22399133,0.6192315478501212,11,CRYGD,1stExon,Island,True,
+TCGA-KIRC,13,cg13641185,0.610357791374288,15,,,Island,False,
+TCGA-KIRC,14,cg26864905,0.608968450816413,15,IL20RA,TSS200,S_Shore,True,Cytokine Signaling in Immune system;Immune System;Interleukin-20 family signaling;Signaling by Interleukins
+TCGA-KIRC,15,cg14931854,0.6015651084958598,6,,,,False,
+TCGA-KIRC,16,cg04428071,0.5921072479067226,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-KIRC,17,cg25999637,0.5745221008601546,7,PDLIM3,Body,,False,
+TCGA-KIRC,18,cg01623261,0.5700918219642198,7,BAHCC1,Body,Island,False,
+TCGA-KIRC,19,cg07248223,0.5647918961762673,15,CCR7,Body,,False,Chemokine receptors bind chemokines;Class A/1 (Rhodopsin-like receptors);G alpha (i) signalling events;GPCR downstream signalling;GPCR ligand binding
+TCGA-KIRC,20,cg00907288,0.5532380573911723,15,SRGAP3,Body,S_Shore,False,Axon guidance;CDC42 GTPase cycle;Developmental Biology;Inactivation of CDC42 and RAC1;Nervous system development
+TCGA-KIRP,1,cg10416814,1.8060347334075928,15,,,Island,False,
+TCGA-KIRP,2,cg10501210,1.5564907324354498,15,,,,False,
+TCGA-KIRP,3,cg17627629,1.3831040005666817,2,,,N_Shore,False,
+TCGA-KIRP,4,cg01623261,1.1812868597543766,7,BAHCC1,Body,Island,False,
+TCGA-KIRP,5,cg24150623,1.1745872283837806,15,MIR125B1,TSS1500,,True,
+TCGA-KIRP,6,cg26858540,1.1344430863989952,15,ZNF787,Body,S_Shelf,False,
+TCGA-KIRP,7,cg07248223,1.1329130420666402,15,CCR7,Body,,False,Chemokine receptors bind chemokines;Class A/1 (Rhodopsin-like receptors);G alpha (i) signalling events;GPCR downstream signalling;GPCR ligand binding
+TCGA-KIRP,8,cg23192683,0.901162005449698,4,,,S_Shore,False,
+TCGA-KIRP,9,cg17375167,0.6876578190642684,15,IGF1R,TSS1500,Island,True,Disease;ESR-mediated signaling;Extra-nuclear estrogen signaling;IGF1R signaling cascade;IRS-related events triggered by IGF1R
+TCGA-KIRP,10,cg03692651,0.6784207697723978,15,,,Island,False,
+TCGA-KIRP,11,cg13879483,0.6770264606418799,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-KIRP,12,cg08954277,0.6487269828106731,15,,,S_Shore,False,
+TCGA-KIRP,13,cg13641185,0.6478998959943456,15,,,Island,False,
+TCGA-KIRP,14,cg04737131,0.6217184548151484,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-KIRP,15,cg27091865,0.6134989156763628,15,,,,False,
+TCGA-KIRP,16,cg20928945,0.5975350059564152,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-KIRP,17,cg04428071,0.5783463320108343,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-KIRP,18,cg00660167,0.5711454474361007,15,,,N_Shore,False,
+TCGA-KIRP,19,cg12619262,0.5701018794781063,15,,,,False,
+TCGA-KIRP,20,cg01263942,0.536960814402001,15,DIP2C,Body,,True,
+TCGA-LAML,1,cg23192683,0.8463220723541018,4,,,S_Shore,False,
+TCGA-LAML,2,cg06223834,0.7041190397883635,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-LAML,3,cg06879394,0.7002997851618074,15,PHACTR1,Body,,False,
+TCGA-LAML,4,cg02048922,0.6946977483591932,15,BAI1,Body,S_Shore,False,
+TCGA-LAML,5,cg08954277,0.6248038174310052,15,,,S_Shore,False,
+TCGA-LAML,6,cg12019614,0.6176133121076395,15,DOCK6,Body,Island,False,CDC42 GTPase cycle;Factors involved in megakaryocyte development and platelet production;Hemostasis;RAC1 GTPase cycle;RHO GTPase cycle
+TCGA-LAML,7,cg16810279,0.6161516082384744,3,,,S_Shelf,False,
+TCGA-LAML,8,cg23398076,0.6077306697398881,1,MEIS1,Body,S_Shelf,False,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Developmental Biology
+TCGA-LAML,9,cg23091104,0.5927036782154159,15,TMEM164,1stExon,Island,True,
+TCGA-LAML,10,cg22169990,0.5679254698538795,15,AGAP3,Body,S_Shore,False,
+TCGA-LAML,11,cg22399133,0.5582486212817552,11,CRYGD,1stExon,Island,True,
+TCGA-LAML,12,cg11837293,0.5532771268661169,15,,,,False,
+TCGA-LAML,13,cg27091865,0.5495683431710313,15,,,,False,
+TCGA-LAML,14,cg09798888,0.5259397549349877,15,,,S_Shore,False,
+TCGA-LAML,15,cg06972969,0.4929239875064493,3,PHYHIPL,TSS1500,N_Shore,True,
+TCGA-LAML,16,cg21887193,0.4900478112550712,15,AGAP3,Body,S_Shore,False,
+TCGA-LAML,17,cg03990436,0.4885771977948771,15,PSMD1,3'UTR,,False,ABC transporter disorders;ABC-family protein mediated transport;AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274);APC/C-mediated degradation of cell cycle proteins;APC/C:Cdc20 mediated degradation of Securin
+TCGA-LAML,18,cg22425474,0.4754173323596777,15,,,Island,False,
+TCGA-LAML,19,cg04571941,0.473860443441618,15,TNRC18,TSS200,Island,True,
+TCGA-LAML,20,cg16602369,0.4673817880039035,15,ANKRD33B,TSS200,Island,True,
+TCGA-LGG,1,cg03132824,0.8031971165771772,3,RGS12,Body,N_Shore,False,G alpha (i) signalling events;GPCR downstream signalling;Signal Transduction;Signaling by GPCR
+TCGA-LGG,2,cg13294849,0.7729181623948311,15,SOX2OT,Body,N_Shelf,False,
+TCGA-LGG,3,cg16647921,0.7678766477011781,15,,,Island,False,
+TCGA-LGG,4,cg12911732,0.7062415659628201,15,,,,False,
+TCGA-LGG,5,cg24816460,0.7012521136566607,15,CDYL,TSS1500,Island,True,
+TCGA-LGG,6,cg11837293,0.6597200305332751,15,,,,False,
+TCGA-LGG,7,cg10501210,0.6242249829066361,15,,,,False,
+TCGA-LGG,8,cg12019614,0.6135844197927367,15,DOCK6,Body,Island,False,CDC42 GTPase cycle;Factors involved in megakaryocyte development and platelet production;Hemostasis;RAC1 GTPase cycle;RHO GTPase cycle
+TCGA-LGG,9,cg04737131,0.6021763953983963,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-LGG,10,cg15425541,0.5947461983498646,15,,,S_Shelf,False,
+TCGA-LGG,11,cg19486070,0.58653139804262,15,KIAA1908,Body,,False,
+TCGA-LGG,12,cg06879394,0.5703437392967132,15,PHACTR1,Body,,False,
+TCGA-LGG,13,cg04571941,0.5702135181652059,15,TNRC18,TSS200,Island,True,
+TCGA-LGG,14,cg27436995,0.5334673108385984,15,FBXL16,3'UTR,Island,False,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System;Metabolism of proteins
+TCGA-LGG,15,cg08599635,0.5209394216423147,15,WWOX,Body,,False,Activation of the TFAP2 (AP-2) family of transcription factors;Gene expression (Transcription);Generic Transcription Pathway;Negative regulation of activity of TFAP2 (AP-2) family transcription factors;Nuclear signaling by ERBB4
+TCGA-LGG,16,cg01263942,0.5068962088746427,15,DIP2C,Body,,True,
+TCGA-LGG,17,cg11630939,0.5053881347412685,15,,,,False,
+TCGA-LGG,18,cg21428990,0.5023488919298539,15,,,,False,
+TCGA-LGG,19,cg26858540,0.5022189410717947,15,ZNF787,Body,S_Shelf,False,
+TCGA-LGG,20,cg18121066,0.487535120124427,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-LIHC,1,cg25731211,0.904777767956522,15,,,,False,
+TCGA-LIHC,2,cg16647921,0.8046440028051606,15,,,Island,False,
+TCGA-LIHC,3,cg00660167,0.7377811538203696,15,,,N_Shore,False,
+TCGA-LIHC,4,cg17375167,0.702804322016955,15,IGF1R,TSS1500,Island,True,Disease;ESR-mediated signaling;Extra-nuclear estrogen signaling;IGF1R signaling cascade;IRS-related events triggered by IGF1R
+TCGA-LIHC,5,cg27436995,0.6960923215370819,15,FBXL16,3'UTR,Island,False,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System;Metabolism of proteins
+TCGA-LIHC,6,cg17945789,0.6662755699484265,15,AGAP1,Body,S_Shore,False,
+TCGA-LIHC,7,cg26858540,0.6553848732829803,15,ZNF787,Body,S_Shelf,False,
+TCGA-LIHC,8,cg25999637,0.6528379131761585,7,PDLIM3,Body,,False,
+TCGA-LIHC,9,cg13879483,0.6501062707138502,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-LIHC,10,cg01263942,0.6406876980393339,15,DIP2C,Body,,True,
+TCGA-LIHC,11,cg04737131,0.6327370778221616,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-LIHC,12,cg02772121,0.6324671137968845,15,TRIM15,TSS200,,True,
+TCGA-LIHC,13,cg14769786,0.6268151709221865,15,RTN4RL1,Body,S_Shore,False,Metabolism of proteins;Post-translational modification: synthesis of GPI-anchored proteins;Post-translational protein modification
+TCGA-LIHC,14,cg04428071,0.6266781728306693,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-LIHC,15,cg12019614,0.6084376903558704,15,DOCK6,Body,Island,False,CDC42 GTPase cycle;Factors involved in megakaryocyte development and platelet production;Hemostasis;RAC1 GTPase cycle;RHO GTPase cycle
+TCGA-LIHC,16,cg01246520,0.5978347909415279,15,RAI1,5'UTR,,True,"Cellular responses to stimuli;Cellular responses to stress;Circadian clock;Expression of BMAL (ARNTL), CLOCK, and NPAS2;Heme signaling"
+TCGA-LIHC,17,cg27592331,0.5933975640694857,15,GATA6,Body,N_Shore,False,Cardiogenesis;Developmental Biology;Factors involved in megakaryocyte development and platelet production;Formation of definitive endoderm;Gastrulation
+TCGA-LIHC,18,cg03274456,0.5875275047205701,15,AHNAK,Body,,False,
+TCGA-LIHC,19,cg06315390,0.5863128018989656,15,FAM118A,TSS1500,N_Shore,True,
+TCGA-LIHC,20,cg25066665,0.559825908786928,2,RPRD2,TSS1500,N_Shore,True,Gene expression (Transcription);RNA Polymerase II Transcription;RNA polymerase II transcribes snRNA genes
+TCGA-LUAD,1,cg23709617,1.2709931310014269,15,KNDC1,Body,S_Shore,False,
+TCGA-LUAD,2,cg00428457,1.1365939854567109,15,,,,False,
+TCGA-LUAD,3,cg13879483,1.1170890260373865,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-LUAD,4,cg27071152,1.1100622070518429,15,LOC646999,Body,Island,False,
+TCGA-LUAD,5,cg14931854,0.962815075215702,6,,,,False,
+TCGA-LUAD,6,cg13294849,0.9143885287367036,15,SOX2OT,Body,N_Shelf,False,
+TCGA-LUAD,7,cg26010218,0.8932532753408986,15,FRAS1,TSS1500,N_Shore,True,
+TCGA-LUAD,8,cg23398076,0.8288804170025541,1,MEIS1,Body,S_Shelf,False,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Developmental Biology
+TCGA-LUAD,9,cg20928945,0.8267467534335996,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-LUAD,10,cg10416814,0.7833955918264888,15,,,Island,False,
+TCGA-LUAD,11,cg24816460,0.7545638806365711,15,CDYL,TSS1500,Island,True,
+TCGA-LUAD,12,cg10501210,0.719161049721366,15,,,,False,
+TCGA-LUAD,13,cg12619262,0.7033320275888593,15,,,,False,
+TCGA-LUAD,14,cg14500486,0.6998649917547334,15,FNDC1,Body,Island,False,
+TCGA-LUAD,15,cg06879394,0.6766343340913495,15,PHACTR1,Body,,False,
+TCGA-LUAD,16,cg15425541,0.6764949964869954,15,,,S_Shelf,False,
+TCGA-LUAD,17,cg18121066,0.6494199811669311,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-LUAD,18,cg24150623,0.6420330582445329,15,MIR125B1,TSS1500,,True,
+TCGA-LUAD,19,cg25999637,0.6402337172640816,7,PDLIM3,Body,,False,
+TCGA-LUAD,20,cg07162000,0.6223759965808723,15,ADARB2,Body,N_Shelf,False,
+TCGA-LUSC,1,cg13294849,1.1513287572569717,15,SOX2OT,Body,N_Shelf,False,
+TCGA-LUSC,2,cg04428071,1.105968819001779,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-LUSC,3,cg14931854,0.9300023629746952,6,,,,False,
+TCGA-LUSC,4,cg18121066,0.867528098335289,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-LUSC,5,cg12619262,0.7827239788113073,15,,,,False,
+TCGA-LUSC,6,cg20100745,0.7716273799869725,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-LUSC,7,cg08360726,0.7409390178678031,15,PLD3,5'UTR,Island,True,Fcgamma receptor (FCGR) dependent phagocytosis;Glycerophospholipid biosynthesis;Immune System;Innate Immune System;Metabolism
+TCGA-LUSC,8,cg13879483,0.7202637225800472,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-LUSC,9,cg18924324,0.667510158788406,15,PRDM13,Body,S_Shore,False,
+TCGA-LUSC,10,cg17233090,0.6628829261551845,15,,,,False,
+TCGA-LUSC,11,cg01774894,0.6608196709682773,15,LOC404266,Body,N_Shore,False,
+TCGA-LUSC,12,cg27071152,0.6406687236997975,15,LOC646999,Body,Island,False,
+TCGA-LUSC,13,cg24940967,0.6368321574566992,3,SLC6A20,Body,N_Shore,False,Amino acid transport across the plasma membrane;Disease;Disorders of transmembrane transporters;SLC transporter disorders;SLC-mediated transmembrane transport
+TCGA-LUSC,14,cg09798888,0.6285918500945332,15,,,S_Shore,False,
+TCGA-LUSC,15,cg07041999,0.6001119752512836,1,,,,False,
+TCGA-LUSC,16,cg22169990,0.5599190651762532,15,AGAP3,Body,S_Shore,False,
+TCGA-LUSC,17,cg23709617,0.5587449772371496,15,KNDC1,Body,S_Shore,False,
+TCGA-LUSC,18,cg21428990,0.5397034642257453,15,,,,False,
+TCGA-LUSC,19,cg16810279,0.523801731323439,3,,,S_Shelf,False,
+TCGA-LUSC,20,cg24816460,0.5053161204828022,15,CDYL,TSS1500,Island,True,
+TCGA-MESO,1,cg23192683,1.1955593991722815,4,,,S_Shore,False,
+TCGA-MESO,2,cg22621695,1.1828037141969574,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-MESO,3,cg23091104,0.961922242423715,15,TMEM164,1stExon,Island,True,
+TCGA-MESO,4,cg16810279,0.8671938045061031,3,,,S_Shelf,False,
+TCGA-MESO,5,cg00660167,0.7726888496299854,15,,,N_Shore,False,
+TCGA-MESO,6,cg12019614,0.7682434747906065,15,DOCK6,Body,Island,False,CDC42 GTPase cycle;Factors involved in megakaryocyte development and platelet production;Hemostasis;RAC1 GTPase cycle;RHO GTPase cycle
+TCGA-MESO,7,cg25105522,0.6677314559116486,15,MAP3K14,Body,,False,Adaptive Immune System;C-type lectin receptors (CLRs);CD28 dependent PI3K/Akt signaling;CLEC7A (Dectin-1) signaling;Co-stimulation by CD28
+TCGA-MESO,8,cg24940967,0.6199654079352285,3,SLC6A20,Body,N_Shore,False,Amino acid transport across the plasma membrane;Disease;Disorders of transmembrane transporters;SLC transporter disorders;SLC-mediated transmembrane transport
+TCGA-MESO,9,cg25731211,0.60919546906476,15,,,,False,
+TCGA-MESO,10,cg25999637,0.5720972015359435,7,PDLIM3,Body,,False,
+TCGA-MESO,11,cg03274456,0.5673855488762543,15,AHNAK,Body,,False,
+TCGA-MESO,12,cg15425541,0.5656900859305439,15,,,S_Shelf,False,
+TCGA-MESO,13,cg27592331,0.5653393258042798,15,GATA6,Body,N_Shore,False,Cardiogenesis;Developmental Biology;Factors involved in megakaryocyte development and platelet production;Formation of definitive endoderm;Gastrulation
+TCGA-MESO,14,cg01246520,0.5626324032462614,15,RAI1,5'UTR,,True,"Cellular responses to stimuli;Cellular responses to stress;Circadian clock;Expression of BMAL (ARNTL), CLOCK, and NPAS2;Heme signaling"
+TCGA-MESO,15,cg27071152,0.5182354397377427,15,LOC646999,Body,Island,False,
+TCGA-MESO,16,cg10416814,0.5105425936343321,15,,,Island,False,
+TCGA-MESO,17,cg18121066,0.4869481840300003,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-MESO,18,cg24150623,0.4860680729854994,15,MIR125B1,TSS1500,,True,
+TCGA-MESO,19,cg21577651,0.4730671351967456,15,SLC16A13,TSS1500,Island,True,
+TCGA-MESO,20,cg20928945,0.4602070302768009,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-OV,1,cg22425474,0.7769077065253622,15,,,Island,False,
+TCGA-OV,2,cg13879483,0.632428258604331,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-OV,3,cg01623261,0.6044717532274063,7,BAHCC1,Body,Island,False,
+TCGA-OV,4,cg18121066,0.5393115849859426,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-OV,5,cg22399133,0.5389821180931492,11,CRYGD,1stExon,Island,True,
+TCGA-OV,6,cg12014181,0.4753566671397315,15,DIP2C,Body,,False,
+TCGA-OV,7,cg19980771,0.4652793738361929,15,SLC22A16,TSS200,Island,True,SLC-mediated transmembrane transport;SLC-mediated transport of organic cations;Transport of small molecules
+TCGA-OV,8,cg02486253,0.4453269070993096,14,RNF126P1,TSS200,Island,True,
+TCGA-OV,9,cg23091104,0.4432600155979241,15,TMEM164,1stExon,Island,True,
+TCGA-OV,10,cg04571941,0.4419166142939564,15,TNRC18,TSS200,Island,True,
+TCGA-OV,11,cg16810279,0.4341909307892352,3,,,S_Shelf,False,
+TCGA-OV,12,cg04428071,0.4208143720442845,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-OV,13,cg03990436,0.4078487431100948,15,PSMD1,3'UTR,,False,ABC transporter disorders;ABC-family protein mediated transport;AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274);APC/C-mediated degradation of cell cycle proteins;APC/C:Cdc20 mediated degradation of Securin
+TCGA-OV,14,cg11717189,0.3931710578392003,15,INS-IGF2,Body,Island,False,
+TCGA-OV,15,cg27071152,0.3928240443005503,15,LOC646999,Body,Island,False,
+TCGA-OV,16,cg17945789,0.3835271973574066,15,AGAP1,Body,S_Shore,False,
+TCGA-OV,17,cg26010218,0.3806812490308285,15,FRAS1,TSS1500,N_Shore,True,
+TCGA-OV,18,cg26864905,0.3731838978696814,15,IL20RA,TSS200,S_Shore,True,Cytokine Signaling in Immune system;Immune System;Interleukin-20 family signaling;Signaling by Interleukins
+TCGA-OV,19,cg12072262,0.3663778405541346,15,,,,False,
+TCGA-OV,20,cg13294849,0.3652173474469014,15,SOX2OT,Body,N_Shelf,False,
+TCGA-PAAD,1,cg11630939,1.536386951573175,15,,,,False,
+TCGA-PAAD,2,cg19486070,1.418797288164402,15,KIAA1908,Body,,False,
+TCGA-PAAD,3,cg23398076,1.3261218193429984,1,MEIS1,Body,S_Shelf,False,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Developmental Biology
+TCGA-PAAD,4,cg27592331,1.2742150047467462,15,GATA6,Body,N_Shore,False,Cardiogenesis;Developmental Biology;Factors involved in megakaryocyte development and platelet production;Formation of definitive endoderm;Gastrulation
+TCGA-PAAD,5,cg16810279,1.1806936324776875,3,,,S_Shelf,False,
+TCGA-PAAD,6,cg20928945,1.143307325159184,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-PAAD,7,cg08360726,1.097776687470386,15,PLD3,5'UTR,Island,True,Fcgamma receptor (FCGR) dependent phagocytosis;Glycerophospholipid biosynthesis;Immune System;Innate Immune System;Metabolism
+TCGA-PAAD,8,cg08599635,1.0584931228303391,15,WWOX,Body,,False,Activation of the TFAP2 (AP-2) family of transcription factors;Gene expression (Transcription);Generic Transcription Pathway;Negative regulation of activity of TFAP2 (AP-2) family transcription factors;Nuclear signaling by ERBB4
+TCGA-PAAD,9,cg23709617,1.0533539618574028,15,KNDC1,Body,S_Shore,False,
+TCGA-PAAD,10,cg09798888,0.9130772166995568,15,,,S_Shore,False,
+TCGA-PAAD,11,cg05651243,0.9108977486565132,15,,,,False,
+TCGA-PAAD,12,cg13294849,0.9078298397847944,15,SOX2OT,Body,N_Shelf,False,
+TCGA-PAAD,13,cg14931854,0.8697358906566924,6,,,,False,
+TCGA-PAAD,14,cg01965874,0.8452327673127191,15,PAX7,Body,,False,Developmental Biology;Gastrulation;Specification of the neural plate border
+TCGA-PAAD,15,cg23192683,0.8284548748050624,4,,,S_Shore,False,
+TCGA-PAAD,16,cg21577651,0.8139803653041189,15,SLC16A13,TSS1500,Island,True,
+TCGA-PAAD,17,cg07162000,0.7955538778652652,15,ADARB2,Body,N_Shelf,False,
+TCGA-PAAD,18,cg04428071,0.7235562893802165,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-PAAD,19,cg13641185,0.7128152574611503,15,,,Island,False,
+TCGA-PAAD,20,cg18924324,0.6858981794491843,15,PRDM13,Body,S_Shore,False,
+TCGA-PCPG,1,cg07240413,0.7150199846206238,4,,,,False,
+TCGA-PCPG,2,cg01263942,0.6667378733754236,15,DIP2C,Body,,True,
+TCGA-PCPG,3,cg09068128,0.6300521122750194,15,,,,False,
+TCGA-PCPG,4,cg13294849,0.6117676730645579,15,SOX2OT,Body,N_Shelf,False,
+TCGA-PCPG,5,cg12468255,0.5960973646073504,3,NAV1,TSS1500,Island,True,
+TCGA-PCPG,6,cg15497761,0.5752075074468832,15,TRIM46,Body,Island,False,Cytokine Signaling in Immune system;Immune System;Interferon Signaling;Interferon gamma signaling
+TCGA-PCPG,7,cg04428071,0.5486114269384718,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-PCPG,8,cg12619262,0.5228441736047165,15,,,,False,
+TCGA-PCPG,9,cg12072262,0.4997021620608603,15,,,,False,
+TCGA-PCPG,10,cg07248223,0.4585847115448724,15,CCR7,Body,,False,Chemokine receptors bind chemokines;Class A/1 (Rhodopsin-like receptors);G alpha (i) signalling events;GPCR downstream signalling;GPCR ligand binding
+TCGA-PCPG,11,cg08954277,0.4527836377959871,15,,,S_Shore,False,
+TCGA-PCPG,12,cg07041999,0.4479632619234381,1,,,,False,
+TCGA-PCPG,13,cg14696311,0.4434060021734411,15,RASA3,Body,S_Shelf,False,MAPK family signaling cascades;MAPK1/MAPK3 signaling;RAF/MAP kinase cascade;Regulation of RAS by GAPs;Signal Transduction
+TCGA-PCPG,14,cg07162000,0.4397928054860316,15,ADARB2,Body,N_Shelf,False,
+TCGA-PCPG,15,cg21428990,0.4366978519016477,15,,,,False,
+TCGA-PCPG,16,cg02772121,0.4339056495768307,15,TRIM15,TSS200,,True,
+TCGA-PCPG,17,cg17945789,0.4328820435801264,15,AGAP1,Body,S_Shore,False,
+TCGA-PCPG,18,cg01623261,0.427324789869325,7,BAHCC1,Body,Island,False,
+TCGA-PCPG,19,cg03692651,0.4129035765938889,15,,,Island,False,
+TCGA-PCPG,20,cg04571941,0.381362772607963,15,TNRC18,TSS200,Island,True,
+TCGA-PRAD,1,cg04737131,0.7019599931377417,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-PRAD,2,cg03274456,0.6027481414744625,15,AHNAK,Body,,False,
+TCGA-PRAD,3,cg16810279,0.5714698127485383,3,,,S_Shelf,False,
+TCGA-PRAD,4,cg00768487,0.5125268165679183,15,UBXN11,Body,,False,RHO GTPase cycle;RND1 GTPase cycle;RND2 GTPase cycle;RND3 GTPase cycle;Signal Transduction
+TCGA-PRAD,5,cg11630939,0.4894857043009138,15,,,,False,
+TCGA-PRAD,6,cg26010218,0.4887209252414611,15,FRAS1,TSS1500,N_Shore,True,
+TCGA-PRAD,7,cg23192683,0.4797296418322488,4,,,S_Shore,False,
+TCGA-PRAD,8,cg12911732,0.4788011669176828,15,,,,False,
+TCGA-PRAD,9,cg00428457,0.4764917509161115,15,,,,False,
+TCGA-PRAD,10,cg02772121,0.4677304012017294,15,TRIM15,TSS200,,True,
+TCGA-PRAD,11,cg25731211,0.4443096244061125,15,,,,False,
+TCGA-PRAD,12,cg12468255,0.4179762665667503,3,NAV1,TSS1500,Island,True,
+TCGA-PRAD,13,cg10501210,0.413084042429739,15,,,,False,
+TCGA-PRAD,14,cg12014181,0.408065409138041,15,DIP2C,Body,,False,
+TCGA-PRAD,15,cg25066665,0.4058786097258419,2,RPRD2,TSS1500,N_Shore,True,Gene expression (Transcription);RNA Polymerase II Transcription;RNA polymerase II transcribes snRNA genes
+TCGA-PRAD,16,cg22986569,0.3914733884938641,15,,,,False,
+TCGA-PRAD,17,cg21887193,0.3853194394760305,15,AGAP3,Body,S_Shore,False,
+TCGA-PRAD,18,cg21428990,0.378707492429437,15,,,,False,
+TCGA-PRAD,19,cg20100745,0.3769347573018491,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-PRAD,20,cg16647921,0.3689704082464034,15,,,Island,False,
+TCGA-READ,1,cg08360726,1.831479484315883,15,PLD3,5'UTR,Island,True,Fcgamma receptor (FCGR) dependent phagocytosis;Glycerophospholipid biosynthesis;Immune System;Innate Immune System;Metabolism
+TCGA-READ,2,cg14262681,1.3743978866267983,15,,,N_Shore,False,
+TCGA-READ,3,cg21577651,1.1853869129183248,15,SLC16A13,TSS1500,Island,True,
+TCGA-READ,4,cg23192683,1.1348144645966345,4,,,S_Shore,False,
+TCGA-READ,5,cg16602369,1.106760140116569,15,ANKRD33B,TSS200,Island,True,
+TCGA-READ,6,cg22986569,1.07656152240315,15,,,,False,
+TCGA-READ,7,cg15425541,1.019633954896371,15,,,S_Shelf,False,
+TCGA-READ,8,cg13294849,0.9900843055457884,15,SOX2OT,Body,N_Shelf,False,
+TCGA-READ,9,cg03274456,0.9832515889528892,15,AHNAK,Body,,False,
+TCGA-READ,10,cg17233090,0.9823707058999608,15,,,,False,
+TCGA-READ,11,cg02772121,0.9579822039014004,15,TRIM15,TSS200,,True,
+TCGA-READ,12,cg24816460,0.9477465309969958,15,CDYL,TSS1500,Island,True,
+TCGA-READ,13,cg20928945,0.8839853918383191,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-READ,14,cg02025737,0.8736526219596347,15,,,,False,
+TCGA-READ,15,cg25999637,0.8515941849506421,7,PDLIM3,Body,,False,
+TCGA-READ,16,cg06879394,0.8398847911264913,15,PHACTR1,Body,,False,
+TCGA-READ,17,cg27071152,0.8179789402526297,15,LOC646999,Body,Island,False,
+TCGA-READ,18,cg03132824,0.8148273177337545,3,RGS12,Body,N_Shore,False,G alpha (i) signalling events;GPCR downstream signalling;Signal Transduction;Signaling by GPCR
+TCGA-READ,19,cg10501210,0.7961557409199247,15,,,,False,
+TCGA-READ,20,cg07248223,0.7315599999953085,15,CCR7,Body,,False,Chemokine receptors bind chemokines;Class A/1 (Rhodopsin-like receptors);G alpha (i) signalling events;GPCR downstream signalling;GPCR ligand binding
+TCGA-SARC,1,cg14696311,1.148642917276331,15,RASA3,Body,S_Shelf,False,MAPK family signaling cascades;MAPK1/MAPK3 signaling;RAF/MAP kinase cascade;Regulation of RAS by GAPs;Signal Transduction
+TCGA-SARC,2,cg01682111,1.024577709303918,15,UNKL,TSS1500,Island,True,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System
+TCGA-SARC,3,cg01965874,0.98356119371992,15,PAX7,Body,,False,Developmental Biology;Gastrulation;Specification of the neural plate border
+TCGA-SARC,4,cg16810279,0.8953860571272193,3,,,S_Shelf,False,
+TCGA-SARC,5,cg05940691,0.8642567130634319,15,WDR64,Body,,False,
+TCGA-SARC,6,cg14931854,0.8600371227197999,6,,,,False,
+TCGA-SARC,7,cg02772121,0.7874851548763501,15,TRIM15,TSS200,,True,
+TCGA-SARC,8,cg21428990,0.7756051867779638,15,,,,False,
+TCGA-SARC,9,cg04737131,0.7202128579499794,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-SARC,10,cg12911732,0.6563745635405873,15,,,,False,
+TCGA-SARC,11,cg22621695,0.6472614295071705,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-SARC,12,cg27071152,0.6391179125841429,15,LOC646999,Body,Island,False,
+TCGA-SARC,13,cg14500486,0.6369160491364497,15,FNDC1,Body,Island,False,
+TCGA-SARC,14,cg24816460,0.6169788015673762,15,CDYL,TSS1500,Island,True,
+TCGA-SARC,15,cg12014181,0.5941647597007207,15,DIP2C,Body,,False,
+TCGA-SARC,16,cg27260772,0.5936507002174148,15,TFAP2B,Body,Island,False,Activation of the TFAP2 (AP-2) family of transcription factors;Developmental Biology;Gastrulation;Gene expression (Transcription);Generic Transcription Pathway
+TCGA-SARC,17,cg00428457,0.5902504473436191,15,,,,False,
+TCGA-SARC,18,cg06972969,0.5772167880530338,3,PHYHIPL,TSS1500,N_Shore,True,
+TCGA-SARC,19,cg13879483,0.5412217976119221,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-SARC,20,cg00660167,0.5382051351642585,15,,,N_Shore,False,
+TCGA-SKCM,1,cg24816460,0.8771690089871094,15,CDYL,TSS1500,Island,True,
+TCGA-SKCM,2,cg06223834,0.7723167860551989,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-SKCM,3,cg00660167,0.7660995960038669,15,,,N_Shore,False,
+TCGA-SKCM,4,cg01246520,0.7607554071396082,15,RAI1,5'UTR,,True,"Cellular responses to stimuli;Cellular responses to stress;Circadian clock;Expression of BMAL (ARNTL), CLOCK, and NPAS2;Heme signaling"
+TCGA-SKCM,5,cg25999637,0.7416805432798294,7,PDLIM3,Body,,False,
+TCGA-SKCM,6,cg13879483,0.7016062813134393,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-SKCM,7,cg17627629,0.68770745977903,2,,,N_Shore,False,
+TCGA-SKCM,8,cg01263942,0.6859491351456212,15,DIP2C,Body,,True,
+TCGA-SKCM,9,cg20928945,0.6805320945230162,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-SKCM,10,cg25731211,0.6128734207290044,15,,,,False,
+TCGA-SKCM,11,cg12619262,0.579115715240919,15,,,,False,
+TCGA-SKCM,12,cg03692651,0.5683385280459264,15,,,Island,False,
+TCGA-SKCM,13,cg08599635,0.5671836835123112,15,WWOX,Body,,False,Activation of the TFAP2 (AP-2) family of transcription factors;Gene expression (Transcription);Generic Transcription Pathway;Negative regulation of activity of TFAP2 (AP-2) family transcription factors;Nuclear signaling by ERBB4
+TCGA-SKCM,14,cg01680010,0.5542893052650132,15,,,S_Shore,False,
+TCGA-SKCM,15,cg02025737,0.5330341766673267,15,,,,False,
+TCGA-SKCM,16,cg26858540,0.5274735996934231,15,ZNF787,Body,S_Shelf,False,
+TCGA-SKCM,17,cg26010218,0.5073114529782191,15,FRAS1,TSS1500,N_Shore,True,
+TCGA-SKCM,18,cg12911732,0.4832153977170239,15,,,,False,
+TCGA-SKCM,19,cg02027945,0.475281773420644,15,,,Island,False,
+TCGA-SKCM,20,cg16810279,0.4713408262816627,3,,,S_Shelf,False,
+TCGA-STAD,1,cg13879483,1.799996517559935,15,USP44,TSS1500,Island,True,Deubiquitination;Metabolism of proteins;Post-translational protein modification;Ub-specific processing proteases
+TCGA-STAD,2,cg01682111,1.449569244253129,15,UNKL,TSS1500,Island,True,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System
+TCGA-STAD,3,cg01263942,1.0021224825817885,15,DIP2C,Body,,True,
+TCGA-STAD,4,cg22169990,0.8634481105602763,15,AGAP3,Body,S_Shore,False,
+TCGA-STAD,5,cg27592331,0.8012954892330296,15,GATA6,Body,N_Shore,False,Cardiogenesis;Developmental Biology;Factors involved in megakaryocyte development and platelet production;Formation of definitive endoderm;Gastrulation
+TCGA-STAD,6,cg17627629,0.7941116883841244,2,,,N_Shore,False,
+TCGA-STAD,7,cg04737131,0.7768091218784647,15,HOXA2,TSS1500,N_Shore,True,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Axon guidance;Developmental Biology;Nervous system development
+TCGA-STAD,8,cg18121066,0.753707831340554,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-STAD,9,cg05940691,0.7172661265976112,15,WDR64,Body,,False,
+TCGA-STAD,10,cg21887193,0.6913137672384883,15,AGAP3,Body,S_Shore,False,
+TCGA-STAD,11,cg14931854,0.6902065919934325,6,,,,False,
+TCGA-STAD,12,cg01774894,0.6877175789033386,15,LOC404266,Body,N_Shore,False,
+TCGA-STAD,13,cg07240413,0.679837163337097,4,,,,False,
+TCGA-STAD,14,cg20928945,0.6683516231475278,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-STAD,15,cg27071152,0.6573579286657814,15,LOC646999,Body,Island,False,
+TCGA-STAD,16,cg06223834,0.6249866603355628,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-STAD,17,cg09798888,0.5929057513488604,15,,,S_Shore,False,
+TCGA-STAD,18,cg11862144,0.5904350745326301,15,SERPINB5,TSS200,,True,
+TCGA-STAD,19,cg19022006,0.5728375206125229,15,SERPINB5,TSS200,,True,
+TCGA-STAD,20,cg12911732,0.5519030390897951,15,,,,False,
+TCGA-TGCT,1,cg16602369,0.8677864068061522,15,ANKRD33B,TSS200,Island,True,
+TCGA-TGCT,2,cg26014538,0.787898067024132,15,ZIC1,TSS1500,N_Shore,True,Developmental Biology;Gastrulation;MITF-M-regulated melanocyte development;Specification of the neural plate border;Transcriptional and post-translational regulation of MITF-M expression and activity
+TCGA-TGCT,3,cg17754510,0.7556375670534692,15,,,S_Shore,False,
+TCGA-TGCT,4,cg10501210,0.7485962535817777,15,,,,False,
+TCGA-TGCT,5,cg26858540,0.6235862455392448,15,ZNF787,Body,S_Shelf,False,
+TCGA-TGCT,6,cg08360726,0.6133518068976599,15,PLD3,5'UTR,Island,True,Fcgamma receptor (FCGR) dependent phagocytosis;Glycerophospholipid biosynthesis;Immune System;Innate Immune System;Metabolism
+TCGA-TGCT,7,cg12468255,0.599676140073247,3,NAV1,TSS1500,Island,True,
+TCGA-TGCT,8,cg07240413,0.5916097932636223,4,,,,False,
+TCGA-TGCT,9,cg17945789,0.5691842610456131,15,AGAP1,Body,S_Shore,False,
+TCGA-TGCT,10,cg00768487,0.5571713657151841,15,UBXN11,Body,,False,RHO GTPase cycle;RND1 GTPase cycle;RND2 GTPase cycle;RND3 GTPase cycle;Signal Transduction
+TCGA-TGCT,11,cg27260772,0.5154311984609395,15,TFAP2B,Body,Island,False,Activation of the TFAP2 (AP-2) family of transcription factors;Developmental Biology;Gastrulation;Gene expression (Transcription);Generic Transcription Pathway
+TCGA-TGCT,12,cg11717189,0.5045015749382737,15,INS-IGF2,Body,Island,False,
+TCGA-TGCT,13,cg12619262,0.4774613523872462,15,,,,False,
+TCGA-TGCT,14,cg18121066,0.4666664193166756,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-TGCT,15,cg04428071,0.4654810079006184,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-TGCT,16,cg06223834,0.4619508852752164,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-TGCT,17,cg10416814,0.4595224270531689,15,,,Island,False,
+TCGA-TGCT,18,cg02261899,0.4528812888572807,1,DCAF12L1,TSS200,Island,True,
+TCGA-TGCT,19,cg11630939,0.4466813429396133,15,,,,False,
+TCGA-TGCT,20,cg01682111,0.4431185193080765,15,UNKL,TSS1500,Island,True,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System
+TCGA-THCA,1,cg12680131,0.6829048393025962,15,TPO,TSS1500,,True,Metabolism;Metabolism of amine-derived hormones;Metabolism of amino acids and derivatives;Thyroxine biosynthesis
+TCGA-THCA,2,cg08599635,0.5956079074156392,15,WWOX,Body,,False,Activation of the TFAP2 (AP-2) family of transcription factors;Gene expression (Transcription);Generic Transcription Pathway;Negative regulation of activity of TFAP2 (AP-2) family transcription factors;Nuclear signaling by ERBB4
+TCGA-THCA,3,cg27592331,0.555764074043175,15,GATA6,Body,N_Shore,False,Cardiogenesis;Developmental Biology;Factors involved in megakaryocyte development and platelet production;Formation of definitive endoderm;Gastrulation
+TCGA-THCA,4,cg00428457,0.5148140915862285,15,,,,False,
+TCGA-THCA,5,cg12911732,0.4844012499258107,15,,,,False,
+TCGA-THCA,6,cg08954277,0.4667518510767484,15,,,S_Shore,False,
+TCGA-THCA,7,cg21887193,0.4580829557467246,15,AGAP3,Body,S_Shore,False,
+TCGA-THCA,8,cg01263942,0.3965026978281266,15,DIP2C,Body,,True,
+TCGA-THCA,9,cg06223834,0.3940015269065248,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-THCA,10,cg27436995,0.3906676980701725,15,FBXL16,3'UTR,Island,False,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System;Metabolism of proteins
+TCGA-THCA,11,cg07248223,0.3856157340921023,15,CCR7,Body,,False,Chemokine receptors bind chemokines;Class A/1 (Rhodopsin-like receptors);G alpha (i) signalling events;GPCR downstream signalling;GPCR ligand binding
+TCGA-THCA,12,cg23057992,0.3847975302581392,15,TMEM163,TSS200,Island,True,
+TCGA-THCA,13,cg20100745,0.3613295261974349,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-THCA,14,cg22169990,0.3495385702335641,15,AGAP3,Body,S_Shore,False,
+TCGA-THCA,15,cg23192683,0.3466923252462119,4,,,S_Shore,False,
+TCGA-THCA,16,cg24150623,0.33100744475646,15,MIR125B1,TSS1500,,True,
+TCGA-THCA,17,cg09798888,0.3217645135653912,15,,,S_Shore,False,
+TCGA-THCA,18,cg17754510,0.3216961611890785,15,,,S_Shore,False,
+TCGA-THCA,19,cg23398076,0.3165548240130825,1,MEIS1,Body,S_Shelf,False,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Developmental Biology
+TCGA-THCA,20,cg16810279,0.3146792159638769,3,,,S_Shelf,False,
+TCGA-THYM,1,cg02772121,0.8170240305172504,15,TRIM15,TSS200,,True,
+TCGA-THYM,2,cg00768487,0.7753190425555461,15,UBXN11,Body,,False,RHO GTPase cycle;RND1 GTPase cycle;RND2 GTPase cycle;RND3 GTPase cycle;Signal Transduction
+TCGA-THYM,3,cg05940691,0.7482478424933114,15,WDR64,Body,,False,
+TCGA-THYM,4,cg20100745,0.7443657654884976,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-THYM,5,cg22169990,0.6751308525648637,15,AGAP3,Body,S_Shore,False,
+TCGA-THYM,6,cg12014181,0.661264251601706,15,DIP2C,Body,,False,
+TCGA-THYM,7,cg02048922,0.6417984773857357,15,BAI1,Body,S_Shore,False,
+TCGA-THYM,8,cg16602369,0.6321779719798553,15,ANKRD33B,TSS200,Island,True,
+TCGA-THYM,9,cg04571941,0.5852836585813127,15,TNRC18,TSS200,Island,True,
+TCGA-THYM,10,cg14696311,0.5642960757497391,15,RASA3,Body,S_Shelf,False,MAPK family signaling cascades;MAPK1/MAPK3 signaling;RAF/MAP kinase cascade;Regulation of RAS by GAPs;Signal Transduction
+TCGA-THYM,11,cg07240413,0.5542702820456413,4,,,,False,
+TCGA-THYM,12,cg03990436,0.5540587451439704,15,PSMD1,3'UTR,,False,ABC transporter disorders;ABC-family protein mediated transport;AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274);APC/C-mediated degradation of cell cycle proteins;APC/C:Cdc20 mediated degradation of Securin
+TCGA-THYM,13,cg18121066,0.5425379402488549,15,TBCD,Body,S_Shelf,True,Metabolism of proteins;Post-chaperonin tubulin folding pathway;Protein folding
+TCGA-THYM,14,cg13641185,0.5330777289427128,15,,,Island,False,
+TCGA-THYM,15,cg00931644,0.5219376608329581,14,KCTD12,TSS1500,S_Shore,True,
+TCGA-THYM,16,cg22621695,0.5213874168751222,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-THYM,17,cg11630939,0.5123235503271045,15,,,,False,
+TCGA-THYM,18,cg21887193,0.50328721424956,15,AGAP3,Body,S_Shore,False,
+TCGA-THYM,19,cg03132824,0.4621388900273219,3,RGS12,Body,N_Shore,False,G alpha (i) signalling events;GPCR downstream signalling;Signal Transduction;Signaling by GPCR
+TCGA-THYM,20,cg09798888,0.4581376919287079,15,,,S_Shore,False,
+TCGA-UCEC,1,cg23398076,1.1835663267141558,1,MEIS1,Body,S_Shelf,False,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Developmental Biology
+TCGA-UCEC,2,cg22621695,1.175824891487999,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-UCEC,3,cg20928945,1.1244688483058778,15,ADAP1,Body,S_Shore,False,Nuclear signaling by ERBB4;Signal Transduction;Signaling by ERBB4;Signaling by Receptor Tyrosine Kinases
+TCGA-UCEC,4,cg15425541,1.0939983349199205,15,,,S_Shelf,False,
+TCGA-UCEC,5,cg06972969,1.0467717504784162,3,PHYHIPL,TSS1500,N_Shore,True,
+TCGA-UCEC,6,cg04428071,1.0427735779464524,1,CSNK1D,Body,,False,AURKA Activation by TPX2;Anchoring of the basal body to the plasma membrane;Asparagine N-linked glycosylation;Assembly of the 9+0 primary cilium;COPII-mediated vesicle transport
+TCGA-UCEC,7,cg04571941,0.9733504072837048,15,TNRC18,TSS200,Island,True,
+TCGA-UCEC,8,cg01623261,0.942854350012752,7,BAHCC1,Body,Island,False,
+TCGA-UCEC,9,cg22399133,0.9375603777396504,11,CRYGD,1stExon,Island,True,
+TCGA-UCEC,10,cg19980771,0.8889667750166239,15,SLC22A16,TSS200,Island,True,SLC-mediated transmembrane transport;SLC-mediated transport of organic cations;Transport of small molecules
+TCGA-UCEC,11,cg25999637,0.8749521464765612,7,PDLIM3,Body,,False,
+TCGA-UCEC,12,cg02027945,0.7931606586859706,15,,,Island,False,
+TCGA-UCEC,13,cg18924324,0.7494730507095364,15,PRDM13,Body,S_Shore,False,
+TCGA-UCEC,14,cg15497761,0.7438916579286893,15,TRIM46,Body,Island,False,Cytokine Signaling in Immune system;Immune System;Interferon Signaling;Interferon gamma signaling
+TCGA-UCEC,15,cg25105522,0.7428799197566998,15,MAP3K14,Body,,False,Adaptive Immune System;C-type lectin receptors (CLRs);CD28 dependent PI3K/Akt signaling;CLEC7A (Dectin-1) signaling;Co-stimulation by CD28
+TCGA-UCEC,16,cg19486070,0.7350000551515327,15,KIAA1908,Body,,False,
+TCGA-UCEC,17,cg20100745,0.7231604628757603,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-UCEC,18,cg06315390,0.7209548227079423,15,FAM118A,TSS1500,N_Shore,True,
+TCGA-UCEC,19,cg01774894,0.7126425076663413,15,LOC404266,Body,N_Shore,False,
+TCGA-UCEC,20,cg22425474,0.659927141281274,15,,,Island,False,
+TCGA-UCS,1,cg22621695,0.9335385919457476,15,DYRK2,1stExon,Island,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;Regulation of TP53 Activity;Regulation of TP53 Activity through Phosphorylation
+TCGA-UCS,2,cg25731211,0.8588413205436217,15,,,,False,
+TCGA-UCS,3,cg03692651,0.8200027849801278,15,,,Island,False,
+TCGA-UCS,4,cg23057992,0.8104549066435105,15,TMEM163,TSS200,Island,True,
+TCGA-UCS,5,cg22399133,0.7979128838764669,11,CRYGD,1stExon,Island,True,
+TCGA-UCS,6,cg04571941,0.7845517746959255,15,TNRC18,TSS200,Island,True,
+TCGA-UCS,7,cg01623261,0.7414177576232747,7,BAHCC1,Body,Island,False,
+TCGA-UCS,8,cg17754510,0.7392259254185524,15,,,S_Shore,False,
+TCGA-UCS,9,cg20100745,0.6606219196661183,15,NDRG1,5'UTR,N_Shore,True,Gene expression (Transcription);Generic Transcription Pathway;RNA Polymerase II Transcription;TP53 Regulates Transcription of Cell Death Genes;TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+TCGA-UCS,10,cg14715697,0.6545863220675493,15,HRNBP3,5'UTR,Island,True,
+TCGA-UCS,11,cg07240413,0.6498750864125229,4,,,,False,
+TCGA-UCS,12,cg26864905,0.6460201577063134,15,IL20RA,TSS200,S_Shore,True,Cytokine Signaling in Immune system;Immune System;Interleukin-20 family signaling;Signaling by Interleukins
+TCGA-UCS,13,cg25999637,0.6424083299190707,7,PDLIM3,Body,,False,
+TCGA-UCS,14,cg08954277,0.6370191869971348,15,,,S_Shore,False,
+TCGA-UCS,15,cg27091865,0.6219943546003406,15,,,,False,
+TCGA-UCS,16,cg26858540,0.606567897367831,15,ZNF787,Body,S_Shelf,False,
+TCGA-UCS,17,cg03990436,0.5928621273240812,15,PSMD1,3'UTR,,False,ABC transporter disorders;ABC-family protein mediated transport;AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274);APC/C-mediated degradation of cell cycle proteins;APC/C:Cdc20 mediated degradation of Securin
+TCGA-UCS,18,cg13641185,0.5911225840333426,15,,,Island,False,
+TCGA-UCS,19,cg19486070,0.5760207819866715,15,KIAA1908,Body,,False,
+TCGA-UCS,20,cg22425474,0.5742287726771008,15,,,Island,False,
+TCGA-UVM,1,cg02025737,0.5013813869057279,15,,,,False,
+TCGA-UVM,2,cg17754510,0.4878506394498673,15,,,S_Shore,False,
+TCGA-UVM,3,cg14769786,0.4801573072040098,15,RTN4RL1,Body,S_Shore,False,Metabolism of proteins;Post-translational modification: synthesis of GPI-anchored proteins;Post-translational protein modification
+TCGA-UVM,4,cg23398076,0.4690030031436244,1,MEIS1,Body,S_Shelf,False,Activation of HOX genes during differentiation;Activation of anterior HOX genes in hindbrain development during early embryogenesis;Developmental Biology
+TCGA-UVM,5,cg24816460,0.4298322418390635,15,CDYL,TSS1500,Island,True,
+TCGA-UVM,6,cg12911732,0.4275268186452507,15,,,,False,
+TCGA-UVM,7,cg07162000,0.4153403870078865,15,ADARB2,Body,N_Shelf,False,
+TCGA-UVM,8,cg06315390,0.4113464976671021,15,FAM118A,TSS1500,N_Shore,True,
+TCGA-UVM,9,cg01623261,0.3989664568297074,7,BAHCC1,Body,Island,False,
+TCGA-UVM,10,cg10501210,0.3791448752955195,15,,,,False,
+TCGA-UVM,11,cg16810279,0.3740364974613242,3,,,S_Shelf,False,
+TCGA-UVM,12,cg09798888,0.3710910295928905,15,,,S_Shore,False,
+TCGA-UVM,13,cg06223834,0.3671742822074049,15,ADCY9,Body,,False,ADORA2B mediated anti-inflammatory cytokines production;Activation of GABAB receptors;Adenylate cyclase activating pathway;Adenylate cyclase inhibitory pathway;Anti-inflammatory response favouring Leishmania parasite infection
+TCGA-UVM,14,cg21428990,0.3365059197380499,15,,,,False,
+TCGA-UVM,15,cg14931854,0.3195752965327076,6,,,,False,
+TCGA-UVM,16,cg06879394,0.3171419314388155,15,PHACTR1,Body,,False,
+TCGA-UVM,17,cg26010218,0.3103102265313948,15,FRAS1,TSS1500,N_Shore,True,
+TCGA-UVM,18,cg07248223,0.3018509336970711,15,CCR7,Body,,False,Chemokine receptors bind chemokines;Class A/1 (Rhodopsin-like receptors);G alpha (i) signalling events;GPCR downstream signalling;GPCR ligand binding
+TCGA-UVM,19,cg27436995,0.2969591870541446,15,FBXL16,3'UTR,Island,False,Adaptive Immune System;Antigen processing: Ubiquitination & Proteasome degradation;Class I MHC mediated antigen processing & presentation;Immune System;Metabolism of proteins
+TCGA-UVM,20,cg18924324,0.2959343053164789,15,PRDM13,Body,S_Shore,False,

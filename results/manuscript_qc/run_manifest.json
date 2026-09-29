@@ -1,0 +1,15 @@
+{
+  "analysis": "locked consensus-panel manifest QC",
+  "scope": "descriptive annotation only; no model refitting or probe exclusion",
+  "inputs": {
+    "panels": "server_results_20260728\\results\\internal_cv\\lr_cpg_panel_frozen_20260721\\consensus_locked_panels.tsv",
+    "panels_sha256": "969531a4798bc944244721ac24885fe4a08141080364b76f6f20b7d64fa2d380",
+    "illumina_manifest": "data\\annotations\\GPL13534_HumanMethylation450_15017482_v.1.1.csv.gz",
+    "illumina_manifest_sha256": "df3d5009d9b5b878507ba330bbcd7d2012455f6d0aa92c2df897f53a28452c33"
+  },
+  "outputs": [
+    "results\\manuscript_qc\\consensus_panel_probe_qc_summary.tsv",
+    "results\\manuscript_qc\\consensus_panel_probe_qc_detail.tsv"
+  ],
+  "cross_reactive_multimapping_status": "not assessed because no authoritative versioned list was supplied with the locked analysis inputs"
+}

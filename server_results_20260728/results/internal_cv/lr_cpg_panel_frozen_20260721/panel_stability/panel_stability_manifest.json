@@ -1,0 +1,13 @@
+{
+  "panel_sizes": [
+    500,
+    1000
+  ],
+  "n_source_folds": 15,
+  "rank_biased_overlap_p": 0.9,
+  "correlated_alternative_rule": {
+    "stable_selected_count_min": 9,
+    "absolute_spearman_threshold": 0.8,
+    "scope": "corresponding training fold and panel union only"
+  }
+}

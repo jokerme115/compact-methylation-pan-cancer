@@ -1,0 +1,20 @@
+{
+  "protocol_object": "full_development_consensus_panels",
+  "source_fold_count": 15,
+  "panels": {
+    "consensus_locked_500_cpg": {
+      "panel_size": 500,
+      "panel_sha256": "cbbcf004b5301ef4ab4022c644eda5cbf96d65d3a820c2052aa3c2fd40b858c2",
+      "source_fold_count": 15,
+      "fallback_probe_count": 0,
+      "ranking_rule": "selected_count desc; mean_rank asc; probe_id asc; then frozen full-development variance fallback"
+    },
+    "consensus_locked_1000_cpg": {
+      "panel_size": 1000,
+      "panel_sha256": "49a8069faae4b39a1e3a189cbc686fdb650e9f411ef89cccc96db6786a9783fe",
+      "source_fold_count": 15,
+      "fallback_probe_count": 0,
+      "ranking_rule": "selected_count desc; mean_rank asc; probe_id asc; then frozen full-development variance fallback"
+    }
+  }
+}
