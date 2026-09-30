@@ -2,11 +2,22 @@ cff-version: 1.2.0
 message: "If you use this code or the CpG panels, please cite the accompanying manuscript."
 title: "Compact DNA methylation panels for patient-level pan-cancer lineage classification"
 type: software
+repository-code: "https://github.com/jokerme115/compact-methylation-pan-cancer"
+version: "0.1.1"
 authors:
   - family-names: He
     given-names: Tao
+    affiliation: "School of Artificial Intelligence, Hainan Normal University"
+  - family-names: Zhang
+    given-names: Hao
+    affiliation: "School of Artificial Intelligence, Hainan Normal University"
   - family-names: Long
     given-names: Haixia
+    affiliation: "School of Artificial Intelligence, Hainan Normal University"
+  - family-names: Zhou
+    given-names: Fei
+    affiliation: "School of Artificial Intelligence, Hainan Normal University"
   - family-names: Yu
     given-names: Xia
+    affiliation: "School of Artificial Intelligence, Hainan Normal University"
     email: 100170@hainnu.edu.cn

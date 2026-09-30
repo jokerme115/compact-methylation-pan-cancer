@@ -1,6 +1,6 @@
 # Compact DNA methylation panels for patient-level pan-cancer lineage classification
 
-This repository contains analysis code and selected non-restricted reproducibility materials for the manuscript by Tao He, Haixia Long and Xia Yu. It was assembled from the local study repository at commit `8e3eeb4`.
+This repository contains analysis code and selected non-restricted reproducibility materials for the manuscript by Tao He, Hao Zhang, Haixia Long, Fei Zhou and Xia Yu. The analysis assets were assembled from the local study repository at commit `8e3eeb4`; the author metadata was updated on 2026-09-30.
 
 ## Contents
 
